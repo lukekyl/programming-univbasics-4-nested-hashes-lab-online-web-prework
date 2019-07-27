@@ -89,7 +89,7 @@ def adding_matz
         
      }
 
-    programmer_hash.first[]
+    programmer_hash[first]
 end
 
 def changing_alan
